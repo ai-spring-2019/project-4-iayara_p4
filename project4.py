@@ -5,7 +5,7 @@ How to use this program: To collect accuracy data from running the NN on a data
 set, follow these instructions:
     1. In main, set input and output sizes where specified.
     2. Run with: python3 project4.py <my_data_set>.csv
-It should produce the accuracy for a range of network strcuture, along with the
+It should produce the accuracy for a range of network strcutures, along with the
 number of layers and nodes per layer that were used.
 """
 import csv, sys, random, math
